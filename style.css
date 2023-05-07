@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  color: red;
+}
+h1 {
+  color: aqua;
+}
+
+#subtitile {
+  font-weight: 400;
+  font-size: 28px;
+}
+#login {
+    border-radius: 8px;
+    background-color: white;
+    height: 396px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1),
+     0 8px 16px rgba(0, 0, 0, .1);
+}
